@@ -1,0 +1,18 @@
+@relation train
+
+@attribute 'Schuurmann MO shift alpha Shift' numeric
+@attribute 'Polarizability derived from the dipole moment Ad' numeric
+@attribute 'Toxicity Index' numeric
+
+@data
+0.147739,0.075877,0.375719
+0.169791,-0.209802,-0.144289
+0.321446,-0.27059,-0.236995
+-0.337695,0.275938,0.246594
+0.216513,0.946669,-0.109475
+0.571966,0.632981,-0.32252
+0.761627,-0.21326,-0.702525
+-0.247786,0.536577,0.348898
+0.03509,-0.158932,-0.170357
+-0.246549,0.536758,0.348418
+0.986914,0.224419,-0.780153
