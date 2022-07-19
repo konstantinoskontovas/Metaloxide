@@ -1,2 +1,2 @@
 # Metaloxide
-Predicting a single values from Metaloxide
+Predicting a single values from Metaloxide dataframe
